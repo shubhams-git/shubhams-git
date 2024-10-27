@@ -13,7 +13,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/shubhams-git/shubhams-git/issues/new"><b>here</b></a><br>
-or <a href="mailto:msg2shubh@gmail.com"><b>email</b></a> me.
+or [email me](mailto:msg2shubh@gmail.com).
 
 <i>Happy Coding!</i> 😊
 
