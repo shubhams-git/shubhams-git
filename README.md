@@ -1,38 +1,72 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/shubhams-git/shubhams-git/blob/master/gifs/Hi.gif" width="30"></h2>
+<!--
+    Hey there, I'm Shubham Sharma!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @ss-shubham-sharma :))
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Shubham+Sharma;Software+Developer" alt="Software Developer"/>
+</a>
+
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
+<div>
+    <img src="./gifs/about.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<div align="center" width="50">
+<!--
+     My mission, because I'm a superhero!
+-->
 
-<img src="https://github.com/shubhams-git/shubhams-git/blob/master/gifs/welcome.gif" alt="Welcome!" width="300"/>
+### My mission
+I’m driven by the passion for solving problems! With a diverse background, I’ve always challenged myself to learn, deliver and grow. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,js,nodejs,react,express,typescript,jest,cpp,cs,html,css,bootstrap,php,androidstudio,nextjs,tailwindcss,materialui,fastapi,aws,docker,postman,postgres,figma,vscode)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,nextjs,kubernetes,prisma,docker)](https://skillicons.dev)
+
+
+<!--
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/ss-shubham-sharma/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://www.credly.com/users/shubham-sharma.ccac7455">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
 </div>
 
-<div align="center">
+<!--
+     Oh, hello there, recruiters!
+-->
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/shubhams-git/shubhams-git/issues/new"><b>here</b></a><br>
-or [email me](mailto:msg2shubh@gmail.com): msg2shubh@gmail.com
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1cz-E6mnCq7FTffLQj8-UD45n-nlS8Gs7?usp=drive_link" download>Download my resume</a>
 
-<i>Happy Coding!</i> 😊
+<i>Random dev joke for you!</i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
-</div>
 
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhams-git&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham's Github Stats">
-
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
----
-
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/ss-shubham-sharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/this.is_stan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-</div>
+<!--
+     Thanks for being my guest <3
+-->
